@@ -37,7 +37,7 @@ Mapa com localização dos eventos: Especialmente útil se os eventos forem em d
 
 ## Prints do trabalho
 
-![Tela de Cards](div%2014%20catalogo.jpg)
+![Tela de Cards](https://github.com/PucMinasComputacao/tarefa-xiv-joaovitor6767/blob/main/diw%2014%20catalogo.jpg?raw=true)
 
 ![Detalhes do Produto](div%2014%20info%20produtos.jpg)
 
