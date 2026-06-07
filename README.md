@@ -37,9 +37,9 @@ Mapa com localização dos eventos: Especialmente útil se os eventos forem em d
 
 ## Prints do trabalho
 
-<<  COLOQUE A IMAGEM - TELA DE CARDS DE PRODUTOS - AQUI >>
+![Tela de Cards](div%2014%20catalogo.jpg)
 
-<<  COLOQUE A IMAGEM - TELA DE DETALHE DO PRODUTO - AQUI >>
+![Detalhes do Produto](div%2014%20info%20produtos.jpg)
 
-<<  COLOQUE A IMAGEM - TELA DO CONSOLE - AQUI >>
+![Console](div%2014%20console.jpg)
 
