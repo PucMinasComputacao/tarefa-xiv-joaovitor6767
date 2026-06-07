@@ -32,8 +32,8 @@ Mapa com localização dos eventos: Especialmente útil se os eventos forem em d
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Joao Vitor Freitas Fernandes
+- Matricula: 914121
 
 ## Prints do trabalho
 
