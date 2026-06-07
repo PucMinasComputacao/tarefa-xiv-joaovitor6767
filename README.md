@@ -39,7 +39,7 @@ Mapa com localização dos eventos: Especialmente útil se os eventos forem em d
 
 ![Tela de Cards](https://github.com/PucMinasComputacao/tarefa-xiv-joaovitor6767/blob/main/diw%2014%20catalogo.jpg?raw=true)
 
-![Detalhes do Produto]()
+![Detalhes do Produto](https://github.com/PucMinasComputacao/tarefa-xiv-joaovitor6767/blob/main/diw%2014%20info%20produtos.jpg?raw=true)
 
 ![Console](https://github.com/PucMinasComputacao/tarefa-xiv-joaovitor6767/blob/main/diw%2014%20console.jpg?raw=true)
 
