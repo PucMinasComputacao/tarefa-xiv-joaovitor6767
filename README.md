@@ -41,5 +41,5 @@ Mapa com localização dos eventos: Especialmente útil se os eventos forem em d
 
 ![Detalhes do Produto]()
 
-![Console]()
+![Console](https://github.com/PucMinasComputacao/tarefa-xiv-joaovitor6767/blob/main/diw%2014%20console.jpg?raw=true)
 
